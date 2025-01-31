@@ -104,8 +104,8 @@ int main(void)
                 }
                 
 
-                // Apply mass effect (gravity)
-                particles[i].speed.y += 0.1f; // Gravity effect
+                // Gravity
+                particles[i].speed.y += 0.1f;
             }
 
             // Collide with each other

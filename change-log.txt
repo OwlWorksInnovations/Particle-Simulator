@@ -1,0 +1,8 @@
+0.0.0.2v
+
+-- Added gravity
+
+0.0.0.1v
+
+-- Added collision with walls and other particles
+-- Added fps and particles amount counter
