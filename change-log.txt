@@ -1,3 +1,7 @@
+0.0.0.3v
+
+-- Way better collisions
+
 0.0.0.2v
 
 -- Added gravity
